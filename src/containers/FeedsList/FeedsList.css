@@ -1,0 +1,21 @@
+.feedsList {
+    padding: 10px;
+    border-bottom: 1px solid #CCC;
+}
+.tab-header {
+    display: flex;
+    gap: 17px;
+    padding: 10px;
+}
+
+.tab {
+    cursor: pointer;
+}
+
+.active-tab {
+    color: #5cb85c;
+    margin-bottom: -20px ;
+    border-bottom: 1px solid #5cb85c;
+}
+
+/** **/

@@ -1,0 +1,27 @@
+.tag {
+    background-color: #818a91;
+    color: #FFF;
+    padding: 5px 10px;
+    display: inline-block;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    margin: 2px;
+}
+
+.tag:hover {
+    background-color: #687077;
+    cursor: pointer;
+}
+
+.light {
+    background-color: #FFF;
+    color: #818a91;
+    border: 1px solid #818a91;
+    padding: 2px 10px;
+}
+
+.light:hover {
+    background-color: #FFF;
+    color: #818a91;
+    border: 1px solid #818a91;
+}
