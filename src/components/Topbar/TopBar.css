@@ -1,0 +1,22 @@
+
+.container-topbar {
+    display: grid;
+    grid-template-columns: 40% 60%;
+    padding: 17px;
+    /*border: 1px solid black;*/
+    box-shadow: 7px 0px 7px 7px #d7d7d7;
+}
+
+.logo {
+    font-size: 21px;
+    color: #5CB85C;
+    font-weight: bold;
+}
+
+.topbar-links {
+    display: flex;
+    flex-direction: row;
+    gap: 17px;
+    justify-content: flex-end;
+    align-items: center;
+}
